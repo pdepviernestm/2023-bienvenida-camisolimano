@@ -6,6 +6,7 @@ Hola!  Soy ***Camila Solimano***. Tengo 19 años y vivo con mi familia en Capita
 ---
 + Tambien me gusta escuchar musica, esucucho un poco de todo la verdad. Para terminar, me gusta conocer lugares nuevos y mantenerme informada de lo que pasa en el mundo día a día.
 
-Aca va una foto mía de chiquita!
 
-![foto pdp 2](https://user-images.githubusercontent.com/129297404/229387201-10950bea-77db-4b69-bb3f-428e09a63ea0.jpg)
+![foto parad](https://user-images.githubusercontent.com/129297404/230787096-fd373780-e0f4-42e7-a482-0dfaa47a1594.jpg)  
+![foto parad](https://user-images.githubusercontent.com/129297404/230787211-1368bc50-4525-4804-9bed-5aad7d5032c4.jpg)
+
