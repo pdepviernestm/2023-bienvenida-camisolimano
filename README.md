@@ -1,6 +1,7 @@
 # Presentación Camila Solimano
 
-Hola!  Soy ***Camila Solimano***. Tengo 19 años y vivo con mi familia en Capital. Arranque la carrera el año pasado, mi legajo es **2099410**.
+Hola!  Soy ***Camila Solimano***. Tengo 19 años y vivo con mi familia en Capital.
+Arranque la carrera el año pasado, mi legajo es **2099410**. Actualmente estoy cursando análisis II, analisis de sistemas, paradigmas, sintáxis y probabilidad y estadística. Del año pasado una materia que me gustó fue matemática discreta.
 ***
 + Disfruto mucho pasar tiempo con la gente que quiero, ya sea juntarme con mis amigas a tomar mates y charlar, ir a la cancha con mis hermanos o hacer distintos planes.
 ---
